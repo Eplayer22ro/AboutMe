@@ -7,3 +7,9 @@ My name is Elijah Elsner, I would like to try out different stuff in the world. 
 
 Hobbies
 -
+
+My hobbies include 
+
+- Archery
++ Bowling
+* Video Game
