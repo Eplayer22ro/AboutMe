@@ -15,8 +15,22 @@ My hobbies include
 * Video Game
 #
 
-# My nighttime routine is... 
+### My nighttime routine is... 
 
 1. Clean
 2. Brush teeth
 3. Sleep
+#
+
+## My philosphy 
+*Don't get too excited over something*
+
+_Should never skip ahead, take your time if have the time_
+
+## Favorite Quotes 
+
+You can get **ready to go.**
+
+__You may miss something__ if you keep going fast. 
+
+
