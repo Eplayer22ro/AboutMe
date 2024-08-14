@@ -23,14 +23,13 @@ My hobbies include
 #
 
 ## My philosphy 
-*Don't get too excited over something*
+<i>Don't get too excited over something</i>
 
-_Should never skip ahead, take your time if have the time_
+<i>Should never skip ahead, take your time if have the time</i>
 
 ## Favorite Quotes 
 
-You can get **ready to go.**
+You can get <b>ready to go.</b>
 
-__You may miss something__ if you keep going fast. 
-
+<b>You may miss something</b> if you keep going fast. 
 
