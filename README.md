@@ -3,9 +3,9 @@
 ---
 ## Summary
 
-[This is a key]
+[This is a key](https://s42814.pcdn.co/wp-content/uploads/2019/12/01_reuse_keys.jpg.webp)
 
-My name is Elijah Elsner, I would like to try out different stuff in the world. My first interest was programming/game developing. And I like to try out some hard physical work to get a taste of the real world for a little bit. And I like playing video games in my free time. 
+My name is Elijah Elsner, I would like to try out different stuff in the world. My first interest was programming/game developing. And I like to try out some hard physical work to get a taste of the real world for a little bit. And I like playing video games in my free time.
 
 Hobbies
 -
