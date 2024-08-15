@@ -3,6 +3,8 @@
 ---
 ## Summary
 
+[This is a key]
+
 My name is Elijah Elsner, I would like to try out different stuff in the world. My first interest was programming/game developing. And I like to try out some hard physical work to get a taste of the real world for a little bit. And I like playing video games in my free time. 
 
 Hobbies
@@ -35,5 +37,12 @@ You can get <b>ready to go.</b>
 
 ## My Favorite Website 
 
-[YouTube](https://youtube.com)
-[YouTube Shorts](https://youtube.com/shorts "youtubeshorts")
+[YouTube](https://youtube.com)<br>
+[YouTube Shorts](https://youtube.com/shorts "youtubeshorts")<br>
+[Hi][]<br>
+
+## Persons of Interest
+[Mark Zuckleburg][1]<br>
+[Justin Bieber][2]<br>
+[Donald Trump][3]<br>
+
