@@ -42,8 +42,8 @@ You can get <b>ready to go.</b>
 [Hi][]<br>
 
 ## Persons of Interest
-[Mark Zuckerburg](https://github.com/user-attachments/assets/666c532c-9136-4957-a26a-ca29c7878fa2)[1]<br>
-[Justin Bieber](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSqoSEuV0lmNrEVLwJ6q75DaOWQjorN0b2G_BLJr4OScCX0YSZ)[2]<br>
+[Mark Zuckerburg]![image](https://github.com/user-attachments/assets/666c532c-9136-4957-a26a-ca29c7878fa2)[1]<br>
+[Justin Bieber]![image](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSqoSEuV0lmNrEVLwJ6q75DaOWQjorN0b2G_BLJr4OScCX0YSZ)[2]<br>
 [Donald Trump]![image](https://t1.gstatic.com/images?q=tbn:ANd9GcQQn6_Hz9zTckXYuOa1biiMhulnHv6pKtadAFcdg79yocrL3Y29)[3]<br>
 <img src="https://www.whitehouse.gov/wp-content/uploads/2021/01/45_donald_trump.jpg" height="100" width="125">
 
