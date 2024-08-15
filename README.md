@@ -48,3 +48,9 @@ You can get <b>ready to go.</b>
 <kbd><img src="https://www.whitehouse.gov/wp-content/uploads/2021/01/45_donald_trump.jpg" height="100" width="125"></kbd>
 
 
+| Terms |
+|  |
+|  |
+|  |
+|  |
+|  |
