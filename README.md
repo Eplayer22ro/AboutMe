@@ -48,9 +48,9 @@ You can get <b>ready to go.</b>
 <kbd><img src="https://www.whitehouse.gov/wp-content/uploads/2021/01/45_donald_trump.jpg" height="100" width="125"></kbd>
 
 
-| Terms |
-| --- |
-| Array |
-| Boolean |
-| Clent |
-| DOS |
+| Terms | Definition | My meaning
+| --- | --- | --- |
+| Array | set of similar data that saves in a sequential form | saved data
+| Boolean | text or arithmetic expression with true or false value | binary code for programming 
+| Client | program that requests information from other programs or processes | A helper
+| Hardware | physical components of a computer system | A memory device
