@@ -39,7 +39,7 @@ You can get <b>ready to go.</b>
 
 [YouTube](https://youtube.com)<br>
 [YouTube Shorts](https://youtube.com/shorts "youtubeshorts")<br>
-[Hi][]<br>
+[Hi](https://www.google.com/)<br>
 
 ## Persons of Interest
 <kbd>[Mark Zuckerburg]![image](https://github.com/user-attachments/assets/666c532c-9136-4957-a26a-ca29c7878fa2)[1]<br></kbd>
