@@ -49,8 +49,8 @@ You can get <b>ready to go.</b>
 
 
 | Terms |
-|  |
-|  |
-|  |
-|  |
-|  |
+| CPU |
+| Array |
+| Boolean |
+| Clent |
+| DOS |
